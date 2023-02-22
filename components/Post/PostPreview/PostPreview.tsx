@@ -1,6 +1,6 @@
-import Avatar from 'components/AuthorAvatar'
-import CoverImage from 'components/CoverImage'
-import Date from 'components/PostDate'
+import Avatar from 'components/AuthorAvatar/AuthorAvatar'
+import CoverImage from 'components/CoverImage/CoverImage'
+import Date from 'components/Post/PostDate/PostDate'
 import type { Post } from 'lib/sanity.queries'
 import Link from 'next/link'
 
